@@ -2,4 +2,4 @@ test2
 =====
 
 Testovaci repozitory
-Nazdar
+Nazdar kohoute...
